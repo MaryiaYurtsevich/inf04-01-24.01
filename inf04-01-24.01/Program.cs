@@ -25,3 +25,4 @@ static char SprawdzPlec(int plec)
         return 'M';
     }
 }
+//idu spac korocze
